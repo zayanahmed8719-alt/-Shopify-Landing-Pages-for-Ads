@@ -1,2 +1,2 @@
 # -Shopify-Landing-Pages-for-Ads
-Developed a Shopify landing page for the ‘Summer Collection’ of Arabian Perfume House. Designed the page layout, organized products, and applied custom styling to create a visually appealing and conversion-focused experience. The page was used in advertising campaigns to attract customers and drive sales
+Developed Shopify landing pages for the ‘Summer Collection’ and ‘Sale’ campaigns for Arabian Perfume House. Designed the layout, organized product collections, and applied custom styling to create visually engaging and conversion-focused pages. These pages were used in advertising campaigns to attract customers, highlight promotional offers, and drive sales.
